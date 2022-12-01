@@ -1,6 +1,14 @@
 // ИЗ Арр файла
 <input className={style.field} type="text" onChange={authorClick} ref={textInput}></input>
 
+
+
+fsdfsdfsdfds
+
+sdasdasdasdas
+dsadasdasdas
+
+
 let state =
 [
   {
